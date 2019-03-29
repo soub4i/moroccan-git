@@ -1,6 +1,6 @@
 {
   "name": "moroccan-git",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A collection of Moroccan aliases for Git workflow.",
   "author": "Abderrahim Soubai Elidrissi",
   "main": "index.js",
@@ -23,7 +23,6 @@
     "git alias",
     "version control",
     "vcs",
-    "faith",
     "morocco"
   ],
   "license": "WTFPL",
