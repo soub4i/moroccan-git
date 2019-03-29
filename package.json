@@ -1,0 +1,45 @@
+{
+  "name": "moroccan-git",
+  "version": "1.0.0",
+  "description": "A collection of Moroccan aliases for Git workflow.",
+  "author": "Abderrahim Soubai Elidrissi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: Fin ghadi afin awa ghadi\\\" && exit 1",
+    "lint": "eslint ./**/*.js",
+    "prettify": "prettier \"./**/*.js\" --write",
+    "clean-warp": "npm run lint && npm run prettify && git add -A"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbderrahimSoubaiElidrissi/moroccan-git.git"
+  },
+  "pre-commit": [
+    "clean-warp"
+  ],
+  "preferGlobal": true,
+  "keywords": [
+    "git",
+    "git alias",
+    "version control",
+    "vcs",
+    "faith",
+    "morocco"
+  ],
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/AbderrahimSoubaiElidrissi/moroccan-git/issues"
+  },
+  "homepage": "https://github.com/AbderrahimSoubaiElidrissi/moroccan-git#readme",
+  "bin": {
+    "mgit": "./index.js"
+  },
+  "dependencies": {
+    "chalk": "^2.4.2"
+  },
+  "devDependencies": {
+    "eslint": "^5.15.3",
+    "pre-commit": "^1.2.2",
+    "prettier": "^1.16.4"
+  }
+}
