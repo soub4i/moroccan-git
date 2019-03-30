@@ -13,7 +13,7 @@ module.exports = {
   status: "tabi3a",
   blame: "montif",
   stash: "ooopla7",
-  rebase: "chofm3ak",
+  rebase: "jma3",
   'cherry-pick': "3zel",
-  fetch: "9r9ebnab"
+  fetch: "wach"
 };
