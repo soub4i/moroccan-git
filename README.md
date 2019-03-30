@@ -11,7 +11,7 @@ For example, `mgit sir3llah` calls `git init`.
 
 ## Aliases
 
-| Alias    | Command       |
+| Command  | Alias         |
 | -------- | ------------- |
 | init     | **sir3allah** |
 | clone    | **b7al**      |
