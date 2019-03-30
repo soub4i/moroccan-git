@@ -11,22 +11,22 @@ For example, `mgit sir3allah` calls `git init`.
 
 ## Aliases
 
-| Command  | Alias         |
-| -------- | ------------- |
-| init     | **sir3allah** |
-| clone    | **b7al**      |
-| add      | **zid**       |
-| commit   | **9ayed**     |
-| branch   | **kwan**      |
-| checkout | **jib**       |
-| merge    | **farga3**    |
-| pull     | **jarr**      |
-| push     | **dfa3**      |
-| log      | **fkhbarek**  |
-| status   | **tabi3a**    |
-| blame    | **montif**    |
-| reset    | **nsa**       |
-| stash    | **oopla7**    |
+| Command  | Alias          |
+| -------- | -------------- |
+| init     | **sir3allah**  |
+| clone    | **b7al**       |
+| add      | **zid**        |
+| commit   | **9ayed**      |
+| branch   | **kwan**       |
+| checkout | **jib**        |
+| merge    | **farga3**     |
+| pull     | **jarr**       |
+| push     | **dfa3**       |
+| log      | **fkhbarek**   |
+| status   | **tabi3a**     |
+| blame    | **montif**     |
+| reset    | **nsa**        |
+| stash    | **ooopla7**    |
 
 ## Installation
 
