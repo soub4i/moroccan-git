@@ -21,7 +21,7 @@ For example, `mgit sir3llah` calls `git init`.
 | checkout | **jib**       |
 | merge    | **farga3**    |
 | pull     | **jarr**      |
-| push     | **dfa3**      |
+| push     | **daf3**      |
 | log      | **fkhbarek**  |
 | status   | **tabi3a**    |
 | blame    | **montif**    |

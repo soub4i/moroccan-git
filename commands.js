@@ -7,7 +7,7 @@ module.exports = {
   checkout: "jib",
   merge: "farge3",
   pull: "jarr",
-  push: "dfa3",
+  push: "daf3",
   log: "fkhbarek",
   reset: "nsa",
   status: "tabi3a",
