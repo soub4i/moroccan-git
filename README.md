@@ -4,10 +4,10 @@ A collection of Moroccan aliases for Git workflow.
 
 ## What is this?
 
-This package you'll give you a collection of Moroccan Git aliases.
+This package gives you a collection of Moroccan Git aliases.
 You can use this package to completely replace your need to call `git` on your machine.
 
-For example, `mgit sir3llah` calls `git init`.
+For example, `mgit sir3allah` calls `git init`.
 
 ## Aliases
 
@@ -21,7 +21,7 @@ For example, `mgit sir3llah` calls `git init`.
 | checkout | **jib**       |
 | merge    | **farga3**    |
 | pull     | **jarr**      |
-| push     | **daf3**      |
+| push     | **dfa3**      |
 | log      | **fkhbarek**  |
 | status   | **tabi3a**    |
 | blame    | **montif**    |
