@@ -26,6 +26,7 @@ For example, `mgit sir3llah` calls `git init`.
 | status   | **tabi3a**    |
 | blame    | **montif**    |
 | reset    | **nsa**       |
+| stash    | **oopla7**    |
 
 ## Installation
 
