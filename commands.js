@@ -11,5 +11,6 @@ module.exports = {
   log: "fkhbarek",
   reset: "nsa",
   status: "tabi3a",
-  blame: "montif"
+  blame: "montif",
+  stash: "ooopla7"
 };
