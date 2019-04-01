@@ -12,8 +12,8 @@ module.exports = {
   reset: "nsa",
   status: "tabi3a",
   blame: "montif",
-  stash: "ooopla7",
-  rebase: "jma3",
+  stash: "opla7",
+  rebase: "chofm3ak",
   'cherry-pick': "3zel",
-  fetch: "wach"
+  fetch: "drebtlila"
 };
